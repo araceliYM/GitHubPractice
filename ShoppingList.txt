@@ -5,4 +5,3 @@ bacon
 croissant
 oranges
 cherries
-carrots
